@@ -8,7 +8,149 @@
                 "coordinates": [-94.3964769,45.5813035]
             },
             "properties": {
-                "prop0": "value0"
+                "Institution": "CSBSJU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.0687349,42.3591388]
+            },
+            "properties": {
+                "Institution": "Wayne State University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-90.2085852,32.2968847]
+            },
+            "properties": {
+                "Institution": "AAAM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-90.6770476,35.8430861]
+            },
+            "properties": {
+                "Institution": "A-State"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.7613734,38.2281135]
+            },
+            "properties": {
+                "Institution": "Louisville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.9404173,36.0014258]
+            },
+            "properties": {
+                "Institution": "Triangle DHRI I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.0491021,35.9049122]
+            },
+            "properties": {
+                "Institution": "Triangle DHRI II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.3174228,40.0281065]
+            },
+            "properties": {
+                "Institution": "Tri-Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.414318,33.7505221]
+            },
+            "properties": {
+                "Institution": "Clark Atlanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.9522981,32.2318851]
+            },
+            "properties": {
+                "Institution": "University of Arizona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.0547266,18.4072572]
+            },
+            "properties": {
+                "Institution": "Evangelical Seminary of Puerto Rico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.9718936,42.0893553]
+            },
+            "properties": {
+                "Institution": "Binghamton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.244450,41.702616]
+            },
+            "properties": {
+                "Institution": "Southbend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7867062,32.8412178]
+            },
+            "properties": {
+                "Institution": "Southern Methodist University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[-70.707108,43.143272], [-70.796971,45.232277], [-68.346137,47.241600], [-67.169812,44.709665], [-70.707108,43.143272]]
+                ]
+            },
+            "properties": {
+                "Institution": "ME Digital Humanities Institute"
             }
         }
     ]
