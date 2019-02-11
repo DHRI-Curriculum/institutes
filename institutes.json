@@ -38,7 +38,8 @@
                 "coordinates": [-90.6770476,35.8430861]
             },
             "properties": {
-                "Institution": "A-State"
+                "Institution": "A-State",
+                "Website": "http://scalar.usc.edu/works/dhriastate/index"
             }
         },
         {
@@ -58,7 +59,9 @@
                 "coordinates": [-78.9404173,36.0014258]
             },
             "properties": {
-                "Institution": "Triangle DHRI I"
+                "Institution": "Triangle DHRI I",
+                "Website": "http://triangledh.org/tdhi/",
+                "Twitter": "https://twitter.com/hashtag/triangledh?f=tweets&vertical=default"
             }
         },
         {
@@ -68,7 +71,8 @@
                 "coordinates": [-79.0491021,35.9049122]
             },
             "properties": {
-                "Institution": "Triangle DHRI II"
+                "Institution": "Triangle DHRI II",
+                "Website": "https://twitter.com/hashtag/triangledh?f=tweets&vertical=default"
             }
         },
         {
@@ -118,7 +122,9 @@
                 "coordinates": [-75.9718936,42.0893553]
             },
             "properties": {
-                "Institution": "Binghamton"
+                "Institution": "Binghamton",
+                "Website": "https://www.binghamton.edu/libraries/services/digitalhumanities-ri.html",
+                "Twitter": "https://twitter.com/hashtag/bingdhri?f=tweets&vertical=default&src=hash"
             }
         },
         {
@@ -128,7 +134,8 @@
                 "coordinates": [-86.244450,41.702616]
             },
             "properties": {
-                "Institution": "Southbend"
+                "Institution": "Southbend",
+                "Website": "http://dhsouthbend.org"
             }
         },
         {
@@ -138,7 +145,8 @@
                 "coordinates": [-96.7867062,32.8412178]
             },
             "properties": {
-                "Institution": "Southern Methodist University"
+                "Institution": "Southern Methodist University",
+                "Website": "https://dhrismu.github.io/home/"
             }
         },
         {
@@ -150,7 +158,8 @@
                 ]
             },
             "properties": {
-                "Institution": "ME Digital Humanities Institute"
+                "Institution": "ME Digital Humanities Institute",
+                "Website": "https://virtual.yccc.edu/MEDigitalHumanitiesInstitute"
             }
         }
     ]
